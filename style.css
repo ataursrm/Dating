@@ -1,0 +1,27 @@
+*{margin:0;padding:0;outline:0}
+body{font-family:arial;font-size:15px;line-height:16px;color:#000;}
+.all {
+	background-image: url("img/ff.jpg");
+	height: 674px;
+	width: 1349px;
+	background-size: cover;
+}
+.all p {
+	text-align: center;
+	font-size: 71px;
+	padding-top: 342px;
+	padding-left: 8px;
+	color: #9fff00;
+}
+.all h2 {
+	background-color: #474c7e;
+	padding: 36px;
+	padding-left: 634px;
+	margin-top: 39px;
+	color: #ff3f00;
+}
+.all h1 {
+	color: #75c5aa;
+	padding-top: 35px;
+	font-size: 61px;
+}
